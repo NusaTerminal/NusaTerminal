@@ -15,6 +15,8 @@
   <a href="https://nusaterminal.com">Website</a>
   ·
   <a href="https://github.com/NusaTerminal">GitHub</a>
+   ·
+  <a href="https://x.com/NusaTerminal">X</a>
 </p>
 
 ---
